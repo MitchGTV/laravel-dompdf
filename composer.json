@@ -7,6 +7,12 @@
         "dompdf",
         "pdf"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/barryvdh/laravel-dompdf"
+        }
+    ],
     "authors": [
         {
             "name": "Mitchell Butterfield",
