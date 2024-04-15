@@ -13,7 +13,7 @@
 ### Laravel
 Require this package in your composer.json and update composer. This will download the package and the dompdf + fontlib libraries also.
 
-    composer require barryvdh/laravel-dompdf
+    composer require mitchgtv/laravel-dompdf
 
 ### Lumen
 
